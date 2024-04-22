@@ -1,0 +1,28 @@
+.walletbalance{
+    background-color: rgb(130, 133, 133);
+    padding: 20px;
+    height: 20vh;
+    width: 500px;
+    border-radius: 10px;
+    flex: 1;
+    margin: 0 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.walletbalance-button{
+    height: 5vh;
+    width: 10vw;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(to right, rgb(160, 206, 160), rgb(19, 207, 19));
+    color: white;
+    cursor: pointer;
+
+}
+.price{
+    color: rgb(19, 207, 19)
+}
+

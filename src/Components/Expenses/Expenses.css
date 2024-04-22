@@ -1,0 +1,27 @@
+.expenses-box{
+    background-color: rgb(130, 133, 133);
+    padding: 20px;
+    height: 20vh;
+    width: 35vw;
+    width: auto;
+    border-radius: 10px;
+    flex: 1;
+    margin: 0 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.expenses-button{
+    height: 5vh;
+    width: 10vw;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(to right, rgb(204, 139, 139), rgb(211, 67, 67));
+    color: white;
+    cursor: pointer;
+}
+.expense{
+    color: rgb(211, 132, 67);
+}
